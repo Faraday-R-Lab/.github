@@ -1,4 +1,4 @@
-Welcome to the Github homepage of the Green Energy and Digital Processes Lab led by Prof.Sai Gu at the University of Warwick. 
+Welcome to the GitHub homepage of the Green Energy and Digital Processes Lab led by Prof.Sai Gu at the University of Warwick. 
 
 The GEDPL group develops several software packages for the analysis of hydrogen energy, including PoreSpy and OpenPNM.
 
