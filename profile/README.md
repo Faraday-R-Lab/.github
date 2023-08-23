@@ -14,11 +14,9 @@ The **Green Energy & Digital Processes Lab**(GEDPL) focuses on the study of hydr
 <!--   profile-green-animate -->
 ![My Local Image](./Green-Hydrogen.jpg)
 
-Research in our lab focuses on three main aspects: measuring transport and structural properties by developing novel characterization tools, modeling transport processes and device performance using pore-scale simulations, and making customized materials targeted for specific applications based on the findings and results of the other two steps. We are also highly interested in visualization of porous materials using x-ray tomography, and extracting previously unimaginable information via quantitative analysis on the resultant volumetric images. This aspect of our work actually bridges all three of the main themes.
 
-PMEAL is run by Prof. Jeff Gostick and is located at the University of Waterloo, in the Department of Chemical Engineering. For more information on the type of projects being pursued by the PMEAL team, take a look at the Publications page, or check out Prof. Gostick’s Google Scholar page.
+PMEAL is run by Prof. [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao). and is located at the University of Warwick, in the School of Engineering. For more information on the type of projects being pursued by the GEDPL team, take a look at the Publications page, or check out Google Scholar profile of [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao).
 
-The GEDPL group develops several software packages for the analysis of hydrogen energy,to provide insights both on mechanism and public interest.
 
 For a list of our group's publications , please visit the Google Scholar profile of [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao).
 
