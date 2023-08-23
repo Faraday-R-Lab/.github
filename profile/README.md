@@ -9,7 +9,7 @@
 
 Welcome to the GitHub homepage of the  **Green Energy and Digital Processes Lab** led by **Prof.Sai Gu** at the **University of Warwick**. 
 
-The **Green Energy & Digital Processes Lab**(GEDPL) focuses on the study of hydrogen energy with a focus on green hydrogen, pay closed attention to the engineered materials including electrodes, membranes, catalysts, and porous transport layer. By applying machine learning and virtural reality tools,we further enhance the impact of research and make it significant to change the daily life. By applying classical tools and further development with theories allows us the ability to discover the science.
+The **Green Energy & Digital Processes Lab**(GEDPL) focuses on the study of hydrogen economy, pays closed attention to the functionalized materials including electrodes, membranes, catalysts, and porous transport layer. By applying machine learning and virtural reality tools,we further enhance the impact of research and make it significant to change the daily life. By applying classical tools and further development with theories allows us the ability to discover the science.
 
 <!--   profile-green-animate -->
 ![My Local Image](./Green-Hydrogen.jpg)
