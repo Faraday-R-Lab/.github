@@ -14,8 +14,7 @@ The **Green Energy & Digital Processes Lab**(GEDPL) focuses on the study of hydr
 <!--   profile-green-animate -->
 ![My Local Image](./Green-Hydrogen.jpg)
 
-
-PMEAL is run by [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao). and is located at the [University of Warwick](https://warwick.ac.uk/), in the [School of Engineering](https://warwick.ac.uk/fac/sci/eng/). For more information on the type of projects being pursued by the GEDPL team, take a look at the Publications page, or check out Google Scholar profile of [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao).
+GEDPL is run by [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao). and is located at the [University of Warwick](https://warwick.ac.uk/), in the [School of Engineering](https://warwick.ac.uk/fac/sci/eng/). For more information on the type of projects being pursued by the GEDPL team, take a look at the Publications page, or check out Google Scholar profile of [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao).
 
 
 For a list of our group's publications , please visit the Google Scholar profile of [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao).
