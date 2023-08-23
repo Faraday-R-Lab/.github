@@ -14,7 +14,6 @@ The **Green Energy & Digital Processes Lab**(GEDPL) focuses on the study of hydr
 <!--   profile-green-animate -->
 ![My Local Image](./profile/Green-Hydrogen.jpg)
 
-
 Research in our lab focuses on three main aspects: measuring transport and structural properties by developing novel characterization tools, modeling transport processes and device performance using pore-scale simulations, and making customized materials targeted for specific applications based on the findings and results of the other two steps. We are also highly interested in visualization of porous materials using x-ray tomography, and extracting previously unimaginable information via quantitative analysis on the resultant volumetric images. This aspect of our work actually bridges all three of the main themes.
 
 PMEAL is run by Prof. Jeff Gostick and is located at the University of Waterloo, in the Department of Chemical Engineering. For more information on the type of projects being pursued by the PMEAL team, take a look at the Publications page, or check out Prof. Gostick’s Google Scholar page.
