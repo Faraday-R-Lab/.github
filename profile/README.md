@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Welcome to GEDPL  </h1>
+:wave: Welcome to GEDPL
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
