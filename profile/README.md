@@ -6,7 +6,9 @@
   <img src="https://i.imgur.com/JlXPELW.jpg" width="400" /> 
 </div>
 
-Welcome to the GitHub homepage of the Green Energy and Digital Processes Lab led by Prof.Sai Gu at the University of Warwick. 
+Welcome to the GitHub homepage of the  **Green Energy and Digital Processes Lab** led by **Prof.Sai Gu** at the **University of Warwick**. 
+
+The main responsible excutor is Haotian Ma.
 
 The GEDPL group develops several software packages for the analysis of hydrogen energy,to provide insights both on mechanism and public interest.
 
