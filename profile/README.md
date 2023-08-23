@@ -14,7 +14,7 @@ The **Green Energy & Digital Processes Lab**(GEDPL) focuses on the study of hydr
 <!--   profile-green-animate -->
 ![My Local Image](./Green-Hydrogen.jpg)
 
-GEDPL is run by [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao). and is located at the [University of Warwick](https://warwick.ac.uk/), in the [School of Engineering](https://warwick.ac.uk/fac/sci/eng/).
+GEDPL is run by [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao) and excuted by [Mr. Haotian Ma](https://github.com/TSdreamer). and is located at the [University of Warwick](https://warwick.ac.uk/), in the [School of Engineering](https://warwick.ac.uk/fac/sci/eng/).
 For more information on the type of projects being pursued by the GEDPL team, take a look at the publications page of [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao).
 
 
