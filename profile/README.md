@@ -1,7 +1,5 @@
-Welcome to the **GitHub Homepage** of the  **Green Energy and Digital Processes Lab** led by **Prof.Sai Gu** at the **University of Warwick**. 
-
 <h1 align="center">:wave: Welcome to GEDPL </h1>
-
+Welcome to the **GitHub Homepage** of the  **Green Energy and Digital Processes Lab** led by **Prof.Sai Gu** at the **University of Warwick**. 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <img src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif" width="400" />
