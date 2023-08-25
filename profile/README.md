@@ -17,8 +17,8 @@ The **Green Energy & Digital Processes Lab**(GEDPL) focuses on the study of hydr
 GEDPL is run by [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao) and excuted by [Mr. Haotian Ma](https://github.com/TSdreamer). GEDPL is located at the [University of Warwick](https://warwick.ac.uk/), in the [School of Engineering](https://warwick.ac.uk/fac/sci/eng/).
 
 <p align="center">
-<a href="https://www.linkedin.com/company/thealgorithms" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-The%20Algorithms-purple?logo=linkedin&logoColor=blue&color=blue" />
+<a href="https://www.linkedin.com/in/sai-gu-6ab44b170/" alt="LinkedIn">
+  <img src="https://www.linkedin.com/in/sai-gu-6ab44b170/-purple?logo=linkedin&logoColor=blue&color=blue" />
 </a>
 <a href="https://the-algorithms.com/discord" alt="Chat on Discord">
    <img src="https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=00d37d" target="blank" />
@@ -29,8 +29,8 @@ GEDPL is run by [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsM
 <a href="https://liberapay.com/TheAlgorithms" alt="Liberapay">
   <img src="https://img.shields.io/liberapay/receives/TheAlgorithms.svg?logo=liberapay" target="blank" />
 </a>
-<a href= "https://github.com/TheAlgorithms" alt="Total Stars">
-  <img src = "https://img.shields.io/github/stars/TheAlgorithms?style=social" target="blank" />
+<a href= "https://github.com/UoWHydrogen" alt="Total Stars">
+  <img src = "https://img.shields.io/github/stars/UoWHydrogen?style=social" target="blank" />
 </a>
 <a href="https://twitter.com/The_Algorithms" alt="Twitter">
   <img src="https://img.shields.io/twitter/follow/The_Algorithms?label=Follow us&style=social" />
