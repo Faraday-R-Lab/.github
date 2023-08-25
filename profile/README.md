@@ -1,3 +1,5 @@
+Welcome to the **GitHub Homepage** of the  **Green Energy and Digital Processes Lab** led by **Prof.Sai Gu** at the **University of Warwick**. 
+
 <h1 align="center">:wave: Welcome to GEDPL </h1>
 
 
@@ -6,8 +8,6 @@
   <img src="https://i.imgur.com/JlXPELW.jpg" width="400" /> 
 </div>
 
-
-Welcome to the **GitHub Homepage** of the  **Green Energy and Digital Processes Lab** led by **Prof.Sai Gu** at the **University of Warwick**. 
 
 The **Green Energy & Digital Processes Lab**(GEDPL) focuses on the study of hydrogen economy, pays closed attention to the **functionalized materials** including **electrodes**, **membranes**,**catalysts**, and **porous transport layer**. By applying **machine learning** and **virtural reality** tools,we further enhance the impact of our research and make it significant to change the daily life. 
 
